@@ -1,0 +1,11 @@
+D:\Media College\bewijzenmap\Periode2.1\PRO\KillAMonster\bin\Debug\netcoreapp2.2\KillAMonster.deps.json
+D:\Media College\bewijzenmap\Periode2.1\PRO\KillAMonster\bin\Debug\netcoreapp2.2\KillAMonster.runtimeconfig.json
+D:\Media College\bewijzenmap\Periode2.1\PRO\KillAMonster\bin\Debug\netcoreapp2.2\KillAMonster.runtimeconfig.dev.json
+D:\Media College\bewijzenmap\Periode2.1\PRO\KillAMonster\bin\Debug\netcoreapp2.2\KillAMonster.dll
+D:\Media College\bewijzenmap\Periode2.1\PRO\KillAMonster\bin\Debug\netcoreapp2.2\KillAMonster.pdb
+D:\Media College\bewijzenmap\Periode2.1\PRO\KillAMonster\obj\Debug\netcoreapp2.2\KillAMonster.csprojAssemblyReference.cache
+D:\Media College\bewijzenmap\Periode2.1\PRO\KillAMonster\obj\Debug\netcoreapp2.2\KillAMonster.csproj.CoreCompileInputs.cache
+D:\Media College\bewijzenmap\Periode2.1\PRO\KillAMonster\obj\Debug\netcoreapp2.2\KillAMonster.AssemblyInfoInputs.cache
+D:\Media College\bewijzenmap\Periode2.1\PRO\KillAMonster\obj\Debug\netcoreapp2.2\KillAMonster.AssemblyInfo.cs
+D:\Media College\bewijzenmap\Periode2.1\PRO\KillAMonster\obj\Debug\netcoreapp2.2\KillAMonster.dll
+D:\Media College\bewijzenmap\Periode2.1\PRO\KillAMonster\obj\Debug\netcoreapp2.2\KillAMonster.pdb

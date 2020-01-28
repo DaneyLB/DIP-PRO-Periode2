@@ -1,0 +1,11 @@
+D:\Media College\bewijzenmap\Periode2.1\PRO\WhatAmI\bin\Debug\netcoreapp2.2\WhatAmI.deps.json
+D:\Media College\bewijzenmap\Periode2.1\PRO\WhatAmI\bin\Debug\netcoreapp2.2\WhatAmI.runtimeconfig.json
+D:\Media College\bewijzenmap\Periode2.1\PRO\WhatAmI\bin\Debug\netcoreapp2.2\WhatAmI.runtimeconfig.dev.json
+D:\Media College\bewijzenmap\Periode2.1\PRO\WhatAmI\bin\Debug\netcoreapp2.2\WhatAmI.dll
+D:\Media College\bewijzenmap\Periode2.1\PRO\WhatAmI\bin\Debug\netcoreapp2.2\WhatAmI.pdb
+D:\Media College\bewijzenmap\Periode2.1\PRO\WhatAmI\obj\Debug\netcoreapp2.2\WhatAmI.csprojAssemblyReference.cache
+D:\Media College\bewijzenmap\Periode2.1\PRO\WhatAmI\obj\Debug\netcoreapp2.2\WhatAmI.csproj.CoreCompileInputs.cache
+D:\Media College\bewijzenmap\Periode2.1\PRO\WhatAmI\obj\Debug\netcoreapp2.2\WhatAmI.AssemblyInfoInputs.cache
+D:\Media College\bewijzenmap\Periode2.1\PRO\WhatAmI\obj\Debug\netcoreapp2.2\WhatAmI.AssemblyInfo.cs
+D:\Media College\bewijzenmap\Periode2.1\PRO\WhatAmI\obj\Debug\netcoreapp2.2\WhatAmI.dll
+D:\Media College\bewijzenmap\Periode2.1\PRO\WhatAmI\obj\Debug\netcoreapp2.2\WhatAmI.pdb

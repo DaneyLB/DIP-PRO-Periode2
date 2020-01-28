@@ -1,0 +1,11 @@
+D:\Media College\bewijzenmap\Periode2.1\PRO\getterstters\bin\Debug\netcoreapp2.2\getterstters.deps.json
+D:\Media College\bewijzenmap\Periode2.1\PRO\getterstters\bin\Debug\netcoreapp2.2\getterstters.runtimeconfig.json
+D:\Media College\bewijzenmap\Periode2.1\PRO\getterstters\bin\Debug\netcoreapp2.2\getterstters.runtimeconfig.dev.json
+D:\Media College\bewijzenmap\Periode2.1\PRO\getterstters\bin\Debug\netcoreapp2.2\getterstters.dll
+D:\Media College\bewijzenmap\Periode2.1\PRO\getterstters\bin\Debug\netcoreapp2.2\getterstters.pdb
+D:\Media College\bewijzenmap\Periode2.1\PRO\getterstters\obj\Debug\netcoreapp2.2\getterstters.csprojAssemblyReference.cache
+D:\Media College\bewijzenmap\Periode2.1\PRO\getterstters\obj\Debug\netcoreapp2.2\getterstters.csproj.CoreCompileInputs.cache
+D:\Media College\bewijzenmap\Periode2.1\PRO\getterstters\obj\Debug\netcoreapp2.2\getterstters.AssemblyInfoInputs.cache
+D:\Media College\bewijzenmap\Periode2.1\PRO\getterstters\obj\Debug\netcoreapp2.2\getterstters.AssemblyInfo.cs
+D:\Media College\bewijzenmap\Periode2.1\PRO\getterstters\obj\Debug\netcoreapp2.2\getterstters.dll
+D:\Media College\bewijzenmap\Periode2.1\PRO\getterstters\obj\Debug\netcoreapp2.2\getterstters.pdb

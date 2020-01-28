@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Media College\\bewijzenmap\\Periode2.1\\PRO\\WhatAmI\\WhatAmI.csproj": {}
+  },
+  "projects": {
+    "D:\\Media College\\bewijzenmap\\Periode2.1\\PRO\\WhatAmI\\WhatAmI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Media College\\bewijzenmap\\Periode2.1\\PRO\\WhatAmI\\WhatAmI.csproj",
+        "projectName": "WhatAmI",
+        "projectPath": "D:\\Media College\\bewijzenmap\\Periode2.1\\PRO\\WhatAmI\\WhatAmI.csproj",
+        "packagesPath": "C:\\Users\\Daney\\.nuget\\packages\\",
+        "outputPath": "D:\\Media College\\bewijzenmap\\Periode2.1\\PRO\\WhatAmI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Daney\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

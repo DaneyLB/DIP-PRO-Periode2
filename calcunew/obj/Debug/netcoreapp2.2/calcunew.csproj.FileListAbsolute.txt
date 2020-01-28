@@ -1,0 +1,11 @@
+D:\Media College\bewijzenmap\Periode2.1\PRO\calcunew\bin\Debug\netcoreapp2.2\calcunew.deps.json
+D:\Media College\bewijzenmap\Periode2.1\PRO\calcunew\bin\Debug\netcoreapp2.2\calcunew.runtimeconfig.json
+D:\Media College\bewijzenmap\Periode2.1\PRO\calcunew\bin\Debug\netcoreapp2.2\calcunew.runtimeconfig.dev.json
+D:\Media College\bewijzenmap\Periode2.1\PRO\calcunew\bin\Debug\netcoreapp2.2\calcunew.dll
+D:\Media College\bewijzenmap\Periode2.1\PRO\calcunew\bin\Debug\netcoreapp2.2\calcunew.pdb
+D:\Media College\bewijzenmap\Periode2.1\PRO\calcunew\obj\Debug\netcoreapp2.2\calcunew.csprojAssemblyReference.cache
+D:\Media College\bewijzenmap\Periode2.1\PRO\calcunew\obj\Debug\netcoreapp2.2\calcunew.csproj.CoreCompileInputs.cache
+D:\Media College\bewijzenmap\Periode2.1\PRO\calcunew\obj\Debug\netcoreapp2.2\calcunew.AssemblyInfoInputs.cache
+D:\Media College\bewijzenmap\Periode2.1\PRO\calcunew\obj\Debug\netcoreapp2.2\calcunew.AssemblyInfo.cs
+D:\Media College\bewijzenmap\Periode2.1\PRO\calcunew\obj\Debug\netcoreapp2.2\calcunew.dll
+D:\Media College\bewijzenmap\Periode2.1\PRO\calcunew\obj\Debug\netcoreapp2.2\calcunew.pdb
